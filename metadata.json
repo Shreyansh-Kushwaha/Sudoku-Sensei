@@ -1,0 +1,5 @@
+{
+  "name": "Sudoku Sensei",
+  "description": "A smart Sudoku assistant that provides step-by-step hints and logical explanations to help you master the game.",
+  "requestFramePermissions": []
+}
